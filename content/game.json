@@ -1,0 +1,314 @@
+{
+  "name": "Wordle Game",
+  "domain": "wordle-game.site",
+  "slug": "wordle-game",
+  "genre": "Word",
+  "iframeUrl": "/game/index.html",
+
+  "seo": {
+    "title": "Wordle Game Online – Free Word Puzzle, No Download",
+    "description": "Play Wordle Game free in your browser — guess the 5-letter word in six tries. No download, no account. A sharp daily word puzzle for vocabulary lovers.",
+    "keywords": ["Wordle Game", "Wordle online", "free word puzzle browser", "online word game no download", "5 letter word game", "vocabulary game free", "daily word puzzle free"]
+  },
+
+  "homepage": {
+    "heroHeadline": "Wordle Game — Free Daily Word Puzzle Online",
+    "heroSubtitle": "Six attempts. Five letters. One solution. Test your vocabulary and deduction in this sharp daily word challenge.",
+    "lede": "Wordle Game is a free browser word puzzle where you guess a five-letter word in up to six attempts. Each guess reveals which letters are correct, which are misplaced, and which are absent. No download, no account required — open the Play page and start your first puzzle immediately.",
+    "stats": [
+      { "value": "6",    "label": "Guesses Per Puzzle" },
+      { "value": "5",    "label": "Letters Per Word" },
+      { "value": "0",    "label": "Downloads Needed" },
+      { "value": "100%", "label": "Free Forever" }
+    ],
+    "about": {
+      "kicker": "What is Wordle Game?",
+      "headline": "The word puzzle that sharpens vocabulary through deduction, not luck.",
+      "paragraph1": "Wordle Game challenges you to identify a secret five-letter word within six guesses. After each guess, colour-coded tiles reveal the accuracy of each letter: green means the letter is correct and in the right position, yellow means the letter is in the word but in the wrong position, and grey means the letter is not in the word. The information from each guess narrows the solution space — the puzzle rewards systematic thinking as much as vocabulary breadth.",
+      "paragraph2": "Wordle Game runs entirely in your browser. No app download, no account creation, no subscription. Navigate to the Play page and your first puzzle is waiting."
+    },
+    "howToPlay": {
+      "headline": "Six guesses, five letters, one word — solved in your browser.",
+      "subheading": "The colour feedback from each guess eliminates possibilities and guides you toward the solution."
+    },
+    "steps": [
+      { "icon": "folder",       "title": "Open the Game",         "desc": "Navigate to the Play page. Wordle Game loads in any modern browser — desktop or mobile — without any installation or sign-up." },
+      { "icon": "eye",          "title": "Read the Grid",         "desc": "A blank 5x6 grid presents the puzzle. Each row is one guess attempt. Examine the target length and plan your opening word." },
+      { "icon": "refresh",      "title": "Type Your First Guess", "desc": "Enter any valid five-letter word. The tiles flip to reveal which letters are correct (green), present but misplaced (yellow), or absent (grey)." },
+      { "icon": "puzzle",       "title": "Use the Feedback",      "desc": "Apply the colour information to narrow your options. Lock confirmed green letters into position. Reuse yellow letters in different positions. Eliminate grey letters entirely." },
+      { "icon": "check-circle", "title": "Solve in Six",          "desc": "Work through up to six guesses, using each result to converge on the answer. A completed row of green tiles means success — the word is found." }
+    ],
+    "categories": [
+      { "name": "Learner",      "icon": "star",   "color": "#10b981", "bg": "#d1fae5", "img": "/level-thumbs/category-1.webp" },
+      { "name": "Wordsmith",    "icon": "target", "color": "#3b82f6", "bg": "#dbeafe", "img": "/level-thumbs/category-2.webp" },
+      { "name": "Puzzler",      "icon": "zap",    "color": "#f59e0b", "bg": "#fef3c7", "img": "/level-thumbs/category-3.webp" },
+      { "name": "Linguist",     "icon": "trophy", "color": "#8b5cf6", "bg": "#ede9fe", "img": "/level-thumbs/category-4.webp" },
+      { "name": "Lexicon",      "icon": "crown",  "color": "#ef4444", "bg": "#fee2e2", "img": "/level-thumbs/category-5.webp" }
+    ],
+    "features": [
+      { "icon": "bolt",   "title": "Instant Browser Play",       "desc": "Wordle Game loads in seconds in any modern browser. No download, no account, no waiting — the puzzle grid is ready the moment you arrive." },
+      { "icon": "target", "title": "Deduction-Driven Gameplay",  "desc": "Every guess delivers precise feedback. The colour-coded system means progress is always measurable — you are never simply guessing blindly." },
+      { "icon": "device", "title": "Any Screen, Any Device",     "desc": "The word grid scales cleanly to desktop, tablet, and smartphone. Keyboard entry and on-screen touch input both work without any adjustment." },
+      { "icon": "image",  "title": "Clean, Distraction-Free UI", "desc": "Wordle Game uses a minimal layout — just the grid and a keyboard. No animations or visual noise compete for attention during the puzzle." },
+      { "icon": "shield", "title": "Safe for All Ages",          "desc": "No in-app purchases, no advertising targeting children, no external links. Wordle Game is appropriate and safe for family play at any age." },
+      { "icon": "music",  "title": "Satisfying Tile Feedback",   "desc": "Each guess produces crisp audio and visual tile-flip feedback. The reveal of green tiles on the final correct guess remains genuinely satisfying at any skill level." }
+    ],
+    "faq": [
+      { "q": "What is Wordle Game?",             "a": "Wordle Game is a free browser word puzzle. Each session presents a secret five-letter word and gives you six attempts to identify it. After every guess, colour-coded tiles show which letters are correct, which are present but misplaced, and which are absent from the solution." },
+      { "q": "Is Wordle Game free?",             "a": "Yes — Wordle Game is 100% free. There are no premium tiers, no in-app purchases, and no paywalls of any kind." },
+      { "q": "Does Wordle Game work on mobile?", "a": "Yes. Wordle Game is fully optimised for touch input and runs in any modern mobile browser without requiring a download." },
+      { "q": "How many levels are there?",       "a": "Wordle Game presents a new puzzle every day. The word list is extensive and covers a wide vocabulary range, from everyday words to less common but valid English terms." },
+      { "q": "Is Wordle Game safe for kids?",    "a": "Yes. Wordle Game contains no in-app purchases, no social features, no chat, and no advertising targeting children. The word content is appropriate for all ages." },
+      { "q": "Do I need an account?",            "a": "No account is required. Open the Play page and the puzzle is immediately available — no registration, no login, no email address." }
+    ],
+    "cta": {
+      "headline": "Six guesses. One word. Start now.",
+      "subtext": "No download, no signup. Open Wordle Game in your browser and test your vocabulary today."
+    }
+  },
+
+  "playPage": {
+    "howItWorksSubtitle": "Three steps to your first Wordle Game solve",
+    "steps": [
+      { "title": "Enter a Starting Word",    "desc": "Type any valid five-letter word as your first guess. Strong openers contain common vowels (A, E, I, O) and frequent consonants (R, S, T, L, N) to maximise the information each tile flip reveals." },
+      { "title": "Read the Colour Feedback", "desc": "Green tiles confirm a correct letter in the correct position. Yellow tiles indicate a letter present in the word but placed incorrectly. Grey tiles eliminate letters entirely. Apply this information before your next guess." },
+      { "title": "Converge on the Answer",   "desc": "Use the combined feedback from all previous guesses to narrow the possibilities. Lock green letters in place, test yellow letters in new positions, and exclude grey letters. Most puzzles resolve within four to six well-reasoned guesses." }
+    ]
+  },
+
+  "faqPage": {
+    "items": [
+      { "q": "Is Wordle Game really free?",          "a": "Yes. Wordle Game is completely free to play with no subscriptions, no in-app purchases, and no locked content." },
+      { "q": "What devices can I play on?",          "a": "Wordle Game runs in any modern browser on desktop, laptop, tablet, or smartphone. No app installation is required on any device." },
+      { "q": "How does the game work?",              "a": "Each puzzle presents a hidden five-letter word. You enter guesses and receive colour-coded feedback after each one. Green indicates a correct letter in the correct position, yellow means the letter exists in the word but is misplaced, and grey means the letter is not in the word. Use this information across six guesses to identify the solution." },
+      { "q": "How many levels are there?",           "a": "Wordle Game offers a daily puzzle with a fresh word each day. The puzzle resets at midnight, providing a new challenge every 24 hours." },
+      { "q": "Can I play offline?",                  "a": "Wordle Game requires an internet connection to load. Once loaded in the browser, minimal data is used during active gameplay." },
+      { "q": "Is my progress saved?",                "a": "Progress on the current daily puzzle is saved locally in your browser. Clearing browser data or switching devices will reset this. Streak and statistics are also stored locally." },
+      { "q": "Is Wordle Game safe for children?",    "a": "Yes. Wordle Game contains no graphic content, no social features, no in-app purchases, and no child-targeted advertising. All word content is age-appropriate." },
+      { "q": "Do I need to create an account?",      "a": "No account is ever required. Navigate to the Play page and begin your first puzzle immediately — no registration of any kind." }
+    ]
+  },
+
+  "howToPlayPage": {
+    "intro": "Wordle Game is a word deduction puzzle built on a simple but deep mechanic: guess a five-letter word in up to six attempts, using colour-coded tile feedback to eliminate possibilities after every guess. Green confirms position. Yellow confirms presence but not position. Grey eliminates entirely. The system is learnable in two minutes and offers genuine strategic depth — the best players treat each guess as an information-gathering operation rather than a shot in the dark. Strong opening words, systematic letter tracking, and knowledge of common English word patterns are the core skills the game rewards.",
+    "steps": [
+      { "title": "Choose a Strong Opening Word", "desc": "The first guess determines how much information enters your working set immediately. Words like CRANE, STARE, TRACE, or ADIEU cover the most common letters across English five-letter words. Avoid opening with words that use repeated letters — each unique letter tested doubles the potential feedback." },
+      { "title": "Track Letters Systematically",  "desc": "After each guess, note which letters are confirmed green, which are yellow, and which are eliminated grey. Do not re-enter grey letters in subsequent guesses; do not place yellow letters in positions they have already occupied. The keyboard display reflects this information, but tracking it actively produces faster results." },
+      { "title": "Narrow and Converge",           "desc": "By guess three or four, the confirmed and eliminated letters significantly constrain the remaining possibilities. Focus on words that place yellow letters in new positions while locking green letters where they belong. Resist the urge to guess unlikely words — the most common valid word that fits all constraints is usually optimal." }
+    ],
+    "mechanic": {
+      "title": "Colour-Coded Deduction",
+      "desc": "The feedback system is the engine of Wordle Game. Each of the five tiles in a guess turns one of three colours: green (letter correct, position correct), yellow (letter correct, position wrong), or grey (letter not in word). This information accumulates across guesses and, when applied rigorously, produces a solvable constraint-satisfaction problem. The game is not primarily about vocabulary size — a player who systematically applies feedback will outperform a word expert who guesses intuitively."
+    },
+    "difficultyProgression": "Wordle Game does not label puzzles by difficulty, but word choice drives natural variation. Common everyday words — CRANE, PLANT, LIGHT — are typically solved in three or four guesses. Less common but valid words — SCAMP, PLUMB, KNOLL — require more targeted guessing and a broader working vocabulary. The daily puzzle rotation covers the full spectrum, meaning any session can present either an accessible word or a genuinely challenging one with little visual warning.",
+    "tips": [
+      { "title": "Use a Consistent Opener",               "desc": "Choosing a reliable starting word and sticking to it across multiple sessions gives you a measurable baseline. Words like STARE, CRANE, or RAISE cover five of the most common letters in five-letter English words. A fixed opener means your second guess is always informed by the same quality of baseline feedback, making your subsequent decision-making more consistent." },
+      { "title": "Yellow Tiles Contain Two Pieces of Data","desc": "A yellow tile tells you two things: the letter is in the word, and it is not in the position you placed it. Both pieces of information matter. Your next guess should move that letter to a new position — ideally one that also tests another unconfirmed letter in the same slot. Players who ignore yellow letters or repeatedly place them in the same wrong position waste valuable guesses." },
+      { "title": "Never Repeat Eliminated Letters",        "desc": "Grey tiles eliminate letters definitively. Placing an already-eliminated letter in a subsequent guess wastes one of your six attempts. Keep grey letters in mind — the on-screen keyboard display shows their status — and build every subsequent guess exclusively from letters that remain unconfirmed or confirmed." },
+      { "title": "Scan for Common Word Patterns",         "desc": "English five-letter words follow recognisable patterns. Common endings include -IGHT, -OUND, -ATCH, and -ANCE. Common consonant clusters include ST-, SCR-, and -NCH. When green letters appear in specific positions, consider which common patterns fit before choosing the next guess. Pattern recognition reduces the search space faster than individual letter testing." },
+      { "title": "Save the Final Guess for Certainty",    "desc": "With one guess remaining, avoid testing a word that solves nothing if wrong. By guess six, enough information should be present to identify the word with confidence. If two or three candidates remain with a single unknown position, use guess five to test the distinguishing letter rather than guessing blindly. Arriving at the final guess with certainty requires intentional information-gathering throughout." }
+    ]
+  },
+
+  "blog": {
+    "headline": "Guides &amp; Strategy",
+    "subheading": "Word puzzle tactics, vocabulary tips, and cognitive research for Wordle Game players at every level.",
+    "introParagraph": "Whether you are solving your first Wordle puzzle or hunting for a more reliable system to maintain your streak, these guides cover the deduction mechanics, language patterns, and cognitive benefits that make word puzzles genuinely worth playing. Each article is grounded in real gameplay and practical advice.",
+    "posts": [
+      {
+        "slug": "getting-started",
+        "title": "Getting Started with Wordle Game: A Complete Beginner's Guide",
+        "excerpt": "New to Wordle Game? This guide explains the colour feedback system, how to open the puzzle, and what your first guess should be.",
+        "category": "Guide",
+        "readTime": "5 min read",
+        "date": "2026-01-01",
+        "icon": "🗺️",
+        "sections": [
+          {
+            "heading": "What Is Wordle Game?",
+            "paragraphs": [
+              "Wordle Game is a word deduction puzzle. Each session presents a hidden five-letter word. You have six guesses to identify it. After every guess, five tiles flip to reveal one of three colours: green means the letter is correct and in the right position, yellow means the letter exists in the word but is placed incorrectly, and grey means the letter is not in the word at all.",
+              "The puzzle requires no prior knowledge of the specific word. It rewards systematic use of feedback. A player who carefully applies the colour information from each guess will consistently outperform one who guesses instinctively — even if the latter has a larger vocabulary."
+            ]
+          },
+          {
+            "heading": "How to Open the Game",
+            "paragraphs": [
+              "Navigate to the Play page on this site. Wordle Game loads directly in your browser — desktop or mobile, no download required. The puzzle grid appears immediately: a 5x6 arrangement of blank tiles and an on-screen keyboard below.",
+              "No account, no email address, and no registration of any kind is needed. Your browser saves your daily progress automatically. If you close the tab mid-puzzle and return later on the same device, your guesses are waiting exactly where you left them."
+            ]
+          },
+          {
+            "heading": "Your First Five Minutes",
+            "paragraphs": [
+              "Type your first five-letter word using the keyboard. Confirm it with the Enter key. The tiles flip. Read the colours from left to right. Green tiles are locked — those letters belong in those exact positions. Yellow tiles must move — the letter is real but misplaced. Grey tiles are out — eliminate them from every future guess.",
+              "For your second guess, use every piece of colour information from the first. Place green letters in the same positions. Move yellow letters to different positions. Build your guess using only letters that have not been eliminated. Repeat this process. Most puzzles yield to this method within four to five attempts."
+            ]
+          },
+          {
+            "heading": "Ready to Play?",
+            "paragraphs": [
+              "Open the Play page, type a strong five-letter opening word, and apply the feedback. The colour system is self-explanatory in practice — two or three guesses is usually enough to understand how to use the information. Start with CRANE or STARE if you want an opener that covers the most common English letters."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "tips-and-tricks",
+        "title": "Top Tips & Tricks for Wordle Game",
+        "excerpt": "These Wordle strategies separate players who finish in three from those who reach guess six every session. Apply them from your next puzzle.",
+        "category": "Strategy",
+        "readTime": "7 min read",
+        "date": "2026-01-05",
+        "icon": "💡",
+        "sections": [
+          {
+            "heading": "Choose Your Opening Word Deliberately",
+            "paragraphs": [
+              "The opening guess determines how much useful information you receive before making any deductions. The best openers test five distinct, common letters. CRANE covers C, R, A, N, E — five of the most frequent letters in five-letter English words. STARE, TRACE, and ARISE are similarly efficient. Avoid opening with words that contain repeated letters — each duplicate reduces the number of unique letters tested.",
+              "Pick one opener and use it consistently across multiple sessions. A fixed opener gives you a reliable baseline, making the second and third guess decisions more consistent over time. It also lets you measure whether your deduction after the opener is improving."
+            ]
+          },
+          {
+            "heading": "Every Tile Tells You Something",
+            "paragraphs": [
+              "Beginners focus primarily on green tiles. Experienced players extract equal value from yellow and grey. A yellow tile eliminates the letter from one position and confirms it in another — both pieces of information narrow the solution. A grey tile closes off an entire letter from all remaining guesses.",
+              "Before entering your next guess, review every tile in every previous guess. The on-screen keyboard tracks eliminated letters, but actively thinking through the full feedback — rather than passively glancing at it — produces more precise guesses and fewer wasted attempts."
+            ]
+          },
+          {
+            "heading": "Think in Word Patterns, Not Individual Letters",
+            "paragraphs": [
+              "English five-letter words cluster around recognisable patterns. Common endings include -IGHT (RIGHT, LIGHT, MIGHT), -OUND (FOUND, ROUND, SOUND), and -ATCH (CATCH, MATCH, PATCH). Common prefixes include UN-, RE-, and ST-. When confirmed green letters reveal a position, scanning for patterns that fit that position is faster than testing individual letters one at a time.",
+              "This pattern-recognition approach becomes especially useful in guesses four and five, when several letters are confirmed but the full word remains unclear. Often the solution fits an extremely common pattern — STONE, STALE, SLATE — that a pattern-aware player reaches faster than one testing letters individually."
+            ]
+          },
+          {
+            "heading": "Manage Your Final Two Guesses",
+            "paragraphs": [
+              "The most common Wordle failure mode is reaching guess five with two or three equally valid candidates and guessing randomly between them. Avoid this. If multiple words remain and a single letter position is unknown, use guess five to test the distinguishing letter — even if the guess itself is unlikely to be the answer. Certainty on guess six beats a coin flip.",
+              "Players who maintain long streaks are not necessarily better at vocabulary — they are better at information management in the final two attempts. Track your uncertainty deliberately: if you know the word is _IGHT but do not know the first letter, count how many valid options remain before committing to guess five."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "game-benefits",
+        "title": "The Cognitive Benefits of Playing Wordle Game",
+        "excerpt": "Word puzzles do more than entertain. Here is what research shows about vocabulary games and how daily play builds lasting mental skills.",
+        "category": "Science",
+        "readTime": "6 min read",
+        "date": "2026-01-10",
+        "icon": "🧠",
+        "sections": [
+          {
+            "heading": "Games and the Brain",
+            "paragraphs": [
+              "Word puzzle games activate the left hemisphere language centres alongside the prefrontal cortex regions responsible for planning and deductive reasoning. Research on crossword and word-guessing tasks consistently shows improvements in verbal working memory and semantic retrieval speed among regular players — the brain becomes faster at accessing and filtering word candidates under constraint.",
+              "Wordle Game specifically trains constraint satisfaction: holding multiple simultaneous rules (this letter is here, that letter is not there, this letter exists but is misplaced) while searching for a solution. This multi-constraint reasoning is directly analogous to the cognitive demands of editing, programming, and analytical problem-solving."
+            ]
+          },
+          {
+            "heading": "Vocabulary and Deduction",
+            "paragraphs": [
+              "Daily word puzzles incrementally expand the mental lexicon — the internal dictionary of words a person can rapidly access. Players regularly encounter words that they recognise but do not actively use, reinforcing those connections and making them more readily available in reading and writing contexts.",
+              "The deduction component — applying feedback to narrow possibilities — is a transferable reasoning skill independent of vocabulary. Studies on logic puzzle engagement show that regular solvers perform better on novel constraint problems in non-linguistic domains, suggesting that the deduction practice generalises beyond word knowledge."
+            ]
+          },
+          {
+            "heading": "Stress Relief and Mental Routine",
+            "paragraphs": [
+              "The daily puzzle format creates a natural, low-pressure mental routine. Unlike open-ended games that escalate indefinitely, Wordle Game is bounded — six guesses, one solution, then done. This structure produces a satisfying completion experience rather than the unresolved escalation of score-based games.",
+              "The focused, quiet engagement required by word puzzles temporarily suppresses the brain's default-mode network — the system responsible for rumination and distraction. Many players report that a morning Wordle session functions as a brief mindfulness practice, quieting anxious thinking through absorbed, goal-directed engagement."
+            ]
+          },
+          {
+            "heading": "Safe Screen Time",
+            "paragraphs": [
+              "Word puzzles represent the most educationally defensible category of screen time. Active engagement, vocabulary exposure, and deductive reasoning practice all occur within a single session. The absence of passive content consumption means the brain remains engaged throughout.",
+              "Wordle Game contains no graphic content, no social features, no advertising targeting children, and no in-app purchases. The cognitive engagement is genuine and appropriate for both children and adults — a rare combination of entertainment and educational value in a single free browser game."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "how-to-improve",
+        "title": "How to Get Better at Wordle Game",
+        "excerpt": "Improvement at Wordle Game comes from better information management, not broader vocabulary. Here is the concrete path from average to excellent.",
+        "category": "Strategy",
+        "readTime": "8 min read",
+        "date": "2026-01-15",
+        "icon": "📈",
+        "sections": [
+          {
+            "heading": "Audit Your Information Use",
+            "paragraphs": [
+              "Most players who struggle with Wordle Game are not limited by vocabulary — they are limited by how fully they use the feedback they already have. After a difficult session, review your guesses. Did any guess repeat a grey letter? Did any guess place a yellow letter in the same position it occupied before? Either pattern indicates incomplete feedback application, not a vocabulary gap.",
+              "Improvement begins by eliminating wasted guesses. Every guess should be constructed exclusively from uneliminated letters, with yellow letters in new positions and green letters locked in place. A guess that violates any of these rules wastes an attempt regardless of whether it turns out to be the answer."
+            ]
+          },
+          {
+            "heading": "Build a Two-Opener System",
+            "paragraphs": [
+              "Many experienced players use a fixed two-opener system: a primary starter (e.g., CRANE) and a secondary word that covers five different common letters (e.g., STOMP). If the first guess returns minimal green or yellow tiles, the second opener tests five more high-frequency letters before any deduction is applied.",
+              "This approach trades one guess of reactive deduction for broader letter coverage. It is particularly effective when the first guess returns mostly grey — the second opener immediately clarifies whether several more common letters are present, giving a much stronger information base for guesses three through six."
+            ]
+          },
+          {
+            "heading": "Learn Common Five-Letter Word Patterns",
+            "paragraphs": [
+              "Wordle Game draws from standard English dictionaries, which means its word list clusters around recognisable patterns. Spending time reading through lists of common five-letter words — not to memorise answers, but to familiarise yourself with patterns — builds a faster candidate-generation process during active play.",
+              "Pay particular attention to common endings: -IGHT, -ATCH, -OUND, -ANCE, and -TION all appear frequently. Words beginning with SCR-, STR-, SH-, and TH- cover many common consonant clusters. Knowing these patterns means fewer guesses are needed once two or three letters are confirmed."
+            ]
+          },
+          {
+            "heading": "Review Difficult Sessions Specifically",
+            "paragraphs": [
+              "When a puzzle takes five or six guesses, take a moment to understand why. Was the word obscure, or did you misapply feedback along the way? If you repeated an eliminated letter or placed a yellow tile in the same wrong position twice, those are technique errors — fixable through attention in future sessions.",
+              "If the word was genuinely rare, look it up and note its pattern. Unusual words tend to follow predictable morphological patterns — knowing that KNOLL ends in a double-L gives you a mental anchor for future puzzles where those patterns emerge from feedback. Every difficult session is an opportunity to expand your pattern library."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "parents-guide",
+        "title": "Wordle Game for Kids: A Parent's Complete Guide",
+        "excerpt": "Everything parents need to know about Wordle Game — what the game involves, the language skills it builds, and why it is safe for children.",
+        "category": "Family",
+        "readTime": "6 min read",
+        "date": "2026-01-20",
+        "icon": "👨‍👩‍👧",
+        "sections": [
+          {
+            "heading": "Is Wordle Game Safe for Children?",
+            "paragraphs": [
+              "Wordle Game is fully safe for players of all ages. The browser version contains no in-app purchases, no social chat features, no advertising targeting children, and no links to external content. Children access the puzzle anonymously — no account registration, no email address, and no personal data collection of any kind.",
+              "The game is entirely self-contained and does not connect to social networks, leaderboards, or multiplayer systems. There is no communication feature of any kind. A child playing Wordle Game interacts only with the puzzle itself."
+            ]
+          },
+          {
+            "heading": "What Will My Child Learn?",
+            "paragraphs": [
+              "Wordle Game builds vocabulary exposure and spelling pattern recognition in a format children find genuinely engaging. The daily puzzle format means play is naturally bounded — one puzzle, six guesses, then done — which prevents the open-ended escalation common in other game formats.",
+              "Beyond vocabulary, the colour feedback system teaches deductive reasoning: children learn to apply information systematically, eliminate possibilities, and construct decisions based on evidence rather than intuition. These reasoning skills transfer directly to mathematics, science, and reading comprehension tasks at school."
+            ]
+          },
+          {
+            "heading": "Tips for Healthy Screen Time",
+            "paragraphs": [
+              "Wordle Game's structure makes it one of the most parent-friendly digital games available. Each session is bounded by six guesses and typically takes five to ten minutes — a natural stopping point that makes screen-time limits easy to enforce without conflict.",
+              "Consider playing together for the first few sessions. Reading the colour feedback aloud and discussing which letters to include or exclude in the next guess turns the puzzle into a collaborative reasoning exercise. The conversation around each guess — 'why did you choose that letter?' — develops explicit metacognitive thinking that benefits academic performance."
+            ]
+          },
+          {
+            "heading": "COPPA Compliance",
+            "paragraphs": [
+              "Wordle Game does not collect personal information from any user, including children under 13. No registration is required, no user data is stored beyond local browser information, and no tracking occurs across sessions or devices.",
+              "There are no advertisements, no social features, no external links, and no in-app purchase mechanisms of any kind. The word content is age-appropriate and drawn from standard English vocabulary. Wordle Game operates in full compliance with COPPA requirements and is appropriate for unsupervised play by children."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
