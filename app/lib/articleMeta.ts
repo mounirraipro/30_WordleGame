@@ -310,4 +310,14 @@ export const articleMeta: Record<string, ArticleMeta> = {
         category: 'Guides',
         readTime: '7 min read',
     },
+    'wordle-game-deduction-guide': {
+        slug: 'wordle-game-deduction-guide',
+        title: 'Wordle Game Deduction Guide: How to Use Every Guess Better',
+        description: 'A clear Wordle Game guide to stronger openers, letter feedback, vowel testing, repeated letters, and calmer six-guess solving.',
+        datePublished: '2026-05-19',
+        dateModified: '2026-05-19',
+        keywords: ['Wordle Game guide', 'Wordle tips', 'word puzzle strategy', 'five letter word game'],
+        category: 'Guide',
+        readTime: '12 min read',
+    },
 };
